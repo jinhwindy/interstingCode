@@ -1,2 +1,2 @@
 # interstingCode
-recode some interesting code i met
+record some interesting code i met
